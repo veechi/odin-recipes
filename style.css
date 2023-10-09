@@ -2,14 +2,15 @@
     font-family: 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
     color: azure;
     background-color: #686868;
+    list-style-type: none;    
+}
+
+h1, h2, p{
     text-align: center;
-    list-style-type: none;
-    
 }
 
-a{
+a {
     color: orange;
+    text-align: center;
 }
-
-
 
